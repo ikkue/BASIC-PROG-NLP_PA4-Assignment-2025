@@ -1,10 +1,6 @@
-# 💬 Chatbot template
+# 😆 Punbot
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
-
-### How to run it on your own machine
+This chatbot is based on Gemini 2.5 Flash made for the BASIC PROG NLP class 2025 using Streamlit and Pandas in Python. The bot's goal is to respond to the user using puns.
 
 1. Install the requirements
 
